@@ -9,9 +9,14 @@ contributor:
     gutenberg_agent_id: '54360'
     url: http://www.gutenberg.org/2009/agents/54360
     wikipedia: https://en.wikipedia.org/wiki/Mary_Frances_Dowdall
+covers:
+- cover_type: archival
+  image_path: 70958-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70958#Joking-apart
 gutenberg_issued: '2023-06-10'
 identifiers:
   gutenberg: '70958'
